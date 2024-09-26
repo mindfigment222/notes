@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "5197ada48a7b792b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a6055d7201413a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf89ca017f525e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f744aca483fa02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Socrates, The Monstrous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a43e0e55f3798c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Dialectic into Dialogos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf30a00d78949181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Finite Transcendence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975604b5b2b9851a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Sophrosyne, Tempted by the Good.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485d2f129a013707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Daimonion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0274a7435a7a9a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. The Socratic Shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b753d475bb25249e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Metanoia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebf805a79f25bf4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Proper Proportions & The Right Mode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d820ff68c2304856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Generative Grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9689d27531cfe7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1d28a07460dfa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed462af69071dcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6e3f1eeb40f142b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7da45c7a4a90e303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f5954d3ae6da723",
+    "type": "split",
+    "children": [
+      {
+        "id": "d60b5e87ebe4a734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a660625f3d29a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12. Generative Grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82b446c898ef1523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12. Generative Grammar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0129dd28be208a5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c83cecd5870f2e57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12. Generative Grammar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d820ff68c2304856",
+  "lastOpenFiles": [
+    "11. Proper Proportions & The Right Mode.md",
+    "12. Generative Grammar.md",
+    "9. Metanoia.md",
+    "8. The Socratic Shift.md",
+    "7. Daimonion.md",
+    "6. Sophrosyne, Tempted by the Good.md",
+    "5. Finite Transcendence.md",
+    "4. Reverse Engineering the Dialectic.md",
+    "3. Dialectic into Dialogos.md",
+    "2. Socrates, The Monstrous.md",
+    "1. Introduction.md",
+    "After Socrates"
+  ]
+}
